@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng server` to serve using webpack development server.
+Run `ng serve` to serve using webpack development server.
 
 ## Build
 
