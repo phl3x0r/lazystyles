@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Lazy loading CSS files does not currently work with the built-in webpack development server.
+Lazy loading does not currently work with the built-in webpack development server.
 Serve manually from the dist folder, e.g. with http-server
 
 ## Build
